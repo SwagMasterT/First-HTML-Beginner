@@ -1,2 +1,2 @@
-# First-HTML-Beginner
-This is my first HTML website. Very very barebones, but hopefully this is a reference for where I started once I become God tier.
+# Beginning-Of-WebDev-Journey
+I will be uploading my websites from the Udemy course I am taking. I expect them to be very lightweight. Hope to use this as a reference once I become great at web development.
